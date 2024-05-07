@@ -14,6 +14,14 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
 
+<h3 align="center">Github Stats</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akshay-0405&show_icons=true&locale=en" alt="userak04" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-0405&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="userak04" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-0405&theme=dark" alt="userak04" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/akisok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akisok" height="30" width="40" /></a>
