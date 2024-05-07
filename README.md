@@ -2,7 +2,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c++,java,html,css,javascript,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)
 
 ### Technologies
 
