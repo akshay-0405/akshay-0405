@@ -13,3 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/akisok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akisok" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/akshaydadu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akshaydadu9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/akisok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akisok/" height="30" width="40" /></a>
+</p>
