@@ -4,6 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,tailwind,jquery,materialui,npm)](https://skillicons.dev)<br/>
 
 ### Technologies
 
