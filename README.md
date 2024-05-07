@@ -5,8 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=git,idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,Wordpress,git)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
 
 ### Technologies
 
