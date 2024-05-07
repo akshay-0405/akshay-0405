@@ -1,12 +1,11 @@
 <h1 align="center"><img src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Animated%20Banner.gif" width="100%"></img></h1>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Profile%20Gif.gif">
-
 ### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
 
+<img align="right" alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Profile%20Gif.gif">
 
 ### Technologies
 
