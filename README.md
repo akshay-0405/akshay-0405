@@ -2,8 +2,8 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
 
 ### Technologies
 
