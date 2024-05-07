@@ -1,4 +1,4 @@
-[![]((https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Animated%20Banner.gif))](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![]([https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Animated%20Banner.gif])](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
