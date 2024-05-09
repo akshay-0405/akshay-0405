@@ -10,7 +10,7 @@
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm,vite)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git,github)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
 
 <h3 align="center">Github Stats</h3>
