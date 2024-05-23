@@ -2,7 +2,7 @@
 
 <img align="center" alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Dev.gif">
 
-<h3 align="center"> Languages
+<h3 align="center"> Languages<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
