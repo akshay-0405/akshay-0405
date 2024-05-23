@@ -5,15 +5,13 @@
 </p>
 
 <h3 align="center"> Language </h3>
-
-<p align="center">
+<h3 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
-</p>
+</h3>
 
 <h3 align="center"> Technologies </h3>
-
 <p align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm,vite)](https://skillicons.dev)<br/>
