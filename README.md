@@ -4,6 +4,8 @@
 <img alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Dev.gif">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Freeman&duration=6000&pause=2000&color=8B00B8&center=true&random=false&width=435&lines=Here's+a+Quote!;%22Code+is+read+much+more+often+than+it+is+written.%22;Now+a+Funny+one;A+SQL+query+walks+into+a+bar.+He+approaches+two+tables+and+says%2C+%22Mind+if+I+join+you%3F%22)](https://git.io/typing-svg)
+
 <h3 align="center"> Language </h3>
 <h3 align="center">
 
