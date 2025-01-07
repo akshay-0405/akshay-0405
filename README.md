@@ -33,6 +33,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/akisok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akisok" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/akshaydadu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akshaydadu9" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/akisok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akisok/" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/akisok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akisok/" height="30" width="40" /></a> -->
 <a href="https://www.naukri.com/code360/profile/CaptainAK" target="blank"><img align="center" src="https://github.com/akshay-0405/akshay-0405/blob/main/coding-ninjas.png" height="30" width="30" /></a>
 </p>
